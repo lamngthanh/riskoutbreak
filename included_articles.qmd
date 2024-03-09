@@ -1,0 +1,18 @@
+---
+title: "Included articles"
+author: "Lam"
+format: html
+editor: visual
+---
+
+## List of included articles
+
+| Study                                                                                                                               | Author                                                                                                  | Methods                     |
+|---------------------------|------------------|---------------------------|
+| Extinction thresholds in deterministic and stochastic epidemic models                                                               | Allen, LJS and Lahodny, GE                                                                              | Multitype branching process |
+| Stochastic epidemics - Major outbreaks and the duration of the endemic period                                                       | Vanherwaarden, Oa and Grasman, J                                                                        | Stochastic simulation       |
+| Risk assessment of infectious disease epidemic based on fuzzy Bayesian network                                                      | Fu, LM and Yang, Q and Liu, XX and He, L                                                                |                             |
+| Mathematical Modeling and COVID-19 Forecast in Texas, USA: A Prediction Model Analysis and the Probability of Disease Outbreak      | Hassan M.N. and Mahmud M.S. and Nipa K.F. and Kamrujjaman M. AO - Hassan, Md Nazmul                     | Stochastic simulation       |
+| Preventing COVID-19 outbreaks through surveillance testing in healthcare facilities: a modelling study                              | Litwin T. and Timmer J. and Berger M. and Wahl-Kordon A. and Muller M.J. and Kreutz C. AO - Litwin, Tim | Stochastic simulation       |
+| Estimating the risk of outbreaks of COVID-19 associated with shore leave by merchant ship crews: simulation studies for New Zealand | Wilson N and Blakely T and Baker MG and Eichner M                                                       | Stochastic simulation       |
+| Stochastic analysis of epidemics on adaptive time varying networks                                                                  | Kotnis B. and Kuri J.                                                                                   |                             |
